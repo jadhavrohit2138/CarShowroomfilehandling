@@ -1,0 +1,3 @@
+1 - Wagner - Red - 1000000
+2 - Ertiga - White - 1200000
+3 - breeza - Gray - 1500000
